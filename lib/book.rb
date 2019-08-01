@@ -1,4 +1,3 @@
 class Book 
-  B=
 end
 
